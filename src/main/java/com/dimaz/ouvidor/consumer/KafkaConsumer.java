@@ -13,4 +13,5 @@ public class KafkaConsumer {
 	public void consume(String message) {
 		System.out.println("message => "+message);
 	}
+	
 }
